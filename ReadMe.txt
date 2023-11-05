@@ -12,6 +12,7 @@ included yourself:
 %SystemRoot%\System32\drivers\etc
 
 2- Install EaseUS Data Recovery Wizard.
+download Link: https://drive.google.com/file/d/1goOtq6FaPxeIQRwMPF6cl7kOz4pp5UGW/view?usp=sharing
 
 3- Copy the "(x-Bit) EDRW Patcher v1.1.exe" app suitable for the architecture of your OS to the
 "EaseUS Data Recovery Wizard (x.x(if there is version))" installation directory and run it there;
@@ -22,4 +23,6 @@ EaseUS Data Recovery Wizard is installed, show the path to the exact installatio
 "EaseUS Data Recovery Wizard (x.x(if there is version))" without any subfolders.
 
 5- Enjoy! ;)
+
+Now you can download the updated version of the software from the official website and update the software manually. (No need to active it again)
 
