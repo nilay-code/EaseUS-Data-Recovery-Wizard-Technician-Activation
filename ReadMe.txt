@@ -24,5 +24,5 @@ EaseUS Data Recovery Wizard is installed, show the path to the exact installatio
 
 5- Enjoy! ;)
 
-Now you can download the updated version of the software from the official website and update the software manually. (No need to active it again)
+Now you can download the updated version of the software(free trial) from the official website and update the software manually. (No need to active it again)
 
